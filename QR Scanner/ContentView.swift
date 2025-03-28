@@ -81,7 +81,7 @@ struct ContentView: View {
                 Button(action: {
                     self.isPresentingScanner = true
                 }) {
-                    Text("Scan QR Code")
+                    Text("Scan QR Code ioioioio")
                         .font(.title2)
                         .frame(maxWidth: .infinity)
                         .padding()
